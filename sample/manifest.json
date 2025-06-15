@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "マイクラスターターキット アドオン",
+    "name": "stater_kit",
+    "uuid": "b12c5cc1-d50c-4bee-97a7-054dc27d369a",
+    "min_engine_version": [
+      1,
+      20,
+      10
+    ],
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "1189dcbf-fa08-4077-b2a0-0efacd7905c5",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
