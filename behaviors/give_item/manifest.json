@@ -1,9 +1,9 @@
 {
   "format_version": 2,
   "header": {
-    "description": "Say Hello!",
-    "name": "Say Hello Behavior Pack",
-    "uuid": "63549f48-13b8-4cc1-9f9a-cd824eb7abaa",
+    "description": "Give item",
+    "name": "Give Item Behavior Pack",
+    "uuid": "05f99c97-f842-4144-9499-5a39103e0b2b",
     "version": [
       1,
       0,
@@ -19,7 +19,7 @@
     {
       "type": "script",
       "language": "javascript",
-      "uuid": "63549f48-13b8-4cc1-9f9a-cd824eb7abab",
+      "uuid": "05f99c97-f842-4144-9499-5a39103e0b2c",
       "entry": "scripts/main.js",
       "version": [
         1,
