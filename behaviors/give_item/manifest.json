@@ -1,0 +1,38 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Say Hello!",
+    "name": "Say Hello Behavior Pack",
+    "uuid": "63549f48-13b8-4cc1-9f9a-cd824eb7abaa",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "63549f48-13b8-4cc1-9f9a-cd824eb7abab",
+      "entry": "scripts/main.js",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "capabilities": ["script_eval"],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.19.0"
+    }
+  ]
+}
