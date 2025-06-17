@@ -1,0 +1,40 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "オリジナルブロック追加",
+        "description": "オリジナルブロック追加のアドオンです",
+        "uuid": "db831584-4a38-4eb1-bb47-d687df0f73fe",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            21,
+            84
+        ]
+    },
+    "modules": [
+        {
+            "description": "オリジナルブロック追加のアドオンです",
+            "type": "resources",
+            "uuid": "2102d596-7e4c-43b9-ad43-f8e2e7875762",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "0e3ce870-910c-4e5d-8501-b9df5d6f357a",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}

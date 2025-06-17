@@ -1,0 +1,11 @@
+{
+    "num_mip_levels" : 4,
+    "padding" : 8,
+    "resource_pack_name" : "my_new_block",
+    "texture_data" : {
+       "sample_block" : {
+          "textures" : "textures/blocks/sample_block"
+       }
+    },
+    "texture_name" : "atlas.terrain"
+}
